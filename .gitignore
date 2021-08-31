@@ -1,0 +1,7 @@
+__pycache__
+*/__pycache__
+temp*
+.benchmarks/
+.vscode/
+.pytest_cache/
+.git/

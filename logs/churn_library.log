@@ -1,0 +1,17 @@
+root - INFO - Import data: SUCCESS
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Import data: SUCCESS
+root - INFO - Testing import_data: SUCCESS
+root - INFO - All EDA images have been saved
+root - INFO - Testing perform eda: SUCCESS
+root - INFO - Import data: SUCCESS
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing encoder_helper: SUCCESS
+root - INFO - Import data: SUCCESS
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing feature_engineering: SUCCESS
+root - INFO - Import data: SUCCESS
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Starting model training
+root - INFO - Training has been finished successfully
+root - INFO - Testing train_models: SUCCESS
